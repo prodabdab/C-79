@@ -1,0 +1,11 @@
+#main_text {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+input,button {
+    margin:10px;
+
+}
+#Sort {
+    display: none;
+}
